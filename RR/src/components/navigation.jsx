@@ -1,5 +1,3 @@
-import React from "react";
-
 export const Navigation = (props) => {
   return (
     <nav id="menu" className="navbar navbar-default navbar-fixed-top">
@@ -18,7 +16,11 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
           </button>
           <a className="navbar-brand page-scroll" href="#page-top">
-           Robsons BodyWorks
+            <img
+              src="/img/image.png"
+              alt="Robsons BodyWorks"
+              style={{ height: "80px", width: "auto" }} // Adjust height as needed
+            />
           </a>{" "}
         </div>
 
@@ -27,9 +29,6 @@ export const Navigation = (props) => {
           id="bs-example-navbar-collapse-1"
         >
           <ul className="nav navbar-nav navbar-right">
-            <li>
-             
-            </li>
             <li>
               <a href="#about" className="page-scroll">
                 About
@@ -48,11 +47,6 @@ export const Navigation = (props) => {
             <li>
               <a href="#testimonials" className="page-scroll">
                 Testimonials
-              </a>
-            </li>
-            <li>
-              <a href="#team" className="page-scroll">
-                Team
               </a>
             </li>
             <li>

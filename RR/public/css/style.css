@@ -76,7 +76,7 @@ hr {
   transition: all 0.8s;
 }
 #menu.navbar-default {
-  background-color: #fff;
+  background-color: #000000;
   border-color: rgba(231, 231, 231, 0);
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
 }
@@ -84,13 +84,13 @@ hr {
   font-family: "Raleway", sans-serif;
   font-size: 24px;
   font-weight: 700;
-  color: #333;
+  color: #fcf5f5;
   text-transform: uppercase;
 }
 #menu.navbar-default .navbar-nav > li > a {
   font-family: "Lato", sans-serif;
   text-transform: uppercase;
-  color: #555;
+  color: #fffefe;
   font-size: 15px;
   font-weight: 400;
   padding: 8px 2px;
@@ -207,16 +207,14 @@ a:focus,
 .intro {
   display: table;
   width: 100%;
-  padding: 0;
-  background: url(../img/intro-bg.jpg) center center no-repeat;
-  background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
+  height: 100vh; /* Ensure the header covers the full viewport height */
+  background: url('/img/istockphoto-908021140-170667a.webp') center center no-repeat;
   background-size: cover;
-  -o-background-size: cover;
 }
+
+
 .intro .overlay {
-  background: rgba(3, 0, 0, 0.2);
+  background: rgb(0, 0, 0);
 }
 .intro h1 {
   font-family: "Raleway", sans-serif;
@@ -263,8 +261,7 @@ header .intro-text {
 /* About Section */
 #about {
   padding: 100px 0;
-  background-color: #000000; /* Change background to black */
-
+  background-color: red; /* About background set to red */
 }
 #about h3 {
   font-size: 22px;
@@ -299,7 +296,6 @@ header .intro-text {
   font-size: 11px;
   font-weight: 300;
   padding-right: 8px;
-  
 }
 #about img {
   width: 520px;
@@ -315,7 +311,7 @@ header .intro-text {
 /* Services Section */
 #services {
   padding: 100px 0;
-  background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+  background: black; /* Services background set to black */
   color: #000000;
 }
 #services .service-desc {
@@ -358,22 +354,19 @@ header .intro-text {
 /* Portfolio Section */
 #portfolio {
   padding: 100px 0;
-  background-color: #000;
+  background-color: red; /* Gallery background set to red */
   color: #ffffff;
-  
 }
 .portfolio-item {
   margin: 1px -15px 0 -14px;
   padding: 0;
   color: #ffffff;
-  
 }
 .portfolio-item .hover-bg {
   overflow: hidden;
   position: relative;
   margin: 0;
   color: #ffffff;
-
 }
 .hover-bg .hover-text {
   position: absolute;
@@ -414,7 +407,7 @@ header .intro-text {
 /* Testimonials Section */
 #testimonials {
   padding: 100px 0;
-  background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+  background: black; /* Testimonials background set to black */
 }
 #testimonials i {
   color: #fcf9f9;
@@ -445,7 +438,6 @@ header .intro-text {
   font-size: 14px;
   font-style: italic;
   color:#ffffff
-  
 }
 .testimonial-meta {
   margin-top: 10px;
@@ -465,7 +457,6 @@ header .intro-text {
 }
 #team .team-img {
   width: 240px;
-  
 }
 #team .thumbnail {
   background: transparent;
@@ -479,7 +470,7 @@ header .intro-text {
 /* Contact Section */
 #contact {
   padding: 100px 0 60px;
-  background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+  background: black; /* Contact background set to black */
   color: rgba(255, 255, 255, 0.75);
 }
 #contact .section-title {
