@@ -9,6 +9,13 @@ import { Contact } from "./components/contact";
 import JsonData from "./data/data.json";
 import SmoothScroll from "smooth-scroll";
 import "./App.css";
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { library } from '@fortawesome/fontawesome-svg-core';
+import { faWordpress } from '@fortawesome/free-brands-svg-icons';
+import { faCartArrowDown, faCloudDownload, faLanguage, faPlane, faPieChart, faComments, faBullhorn, faUsers, faMagic, faWrench } from '@fortawesome/free-solid-svg-icons';
+
+// Add icons to Font Awesome library
+library.add(faWordpress, faCartArrowDown, faCloudDownload, faLanguage, faPlane, faPieChart, faComments, faBullhorn, faUsers, faMagic, faWrench);
 
 export const scroll = new SmoothScroll('a[href*="#"]', {
   speed: 1000,
@@ -17,6 +24,7 @@ export const scroll = new SmoothScroll('a[href*="#"]', {
 
 const App = () => {
   const [landingPageData, setLandingPageData] = useState({});
+
   useEffect(() => {
     setLandingPageData(JsonData);
   }, []);
