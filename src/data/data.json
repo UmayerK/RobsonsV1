@@ -1,0 +1,212 @@
+{
+  "Header": {
+    "title": "Welcome To Robson's Bodyworks",
+    "paragraph": "Expert Care for your Car's Every Need"
+  },
+  "About": {
+    "paragraph": "Robsons Bodyworks began as a family-run collision shop in the UK in 1999, where Mark and Claire worked together from day one. Their commitment to quality and craftsmanship allowed them to expand globally. In 2008, they moved to Canada and opened their second location in Amherstburg, Ontario. Today, with locations in both the UK and Canada, Robsons Bodyworks continues to provide top-notch vehicle repair services while staying true to the family values that have guided them since the start.",
+    "Why": [
+      "20+ Years of Experience",
+      "Family-Owned Business",
+      "Satisfaction Guaranteed",
+      "Globally Recognized "
+    ],
+    "Why2": [
+      "Fast, Reliable Service ",
+      "Honest, Transparent Pricing ",
+      "Attention to Detail",
+      "British Vehicle Specialist"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/h1.jpg",
+      "smallImage": "img/portfolio/h1.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/h2.jpg",
+      "smallImage": "img/portfolio/h2.jpg"
+    },
+
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/h3.jpg",
+      "smallImage": "img/portfolio/h3.jpg"
+    },
+    {
+
+      "title": "Project Title",
+      "largeImage": "img/portfolio/h41.jpg",
+      "smallImage": "img/portfolio/h41.jpg"
+    },
+
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/h5.jpg",
+      "smallImage": "img/portfolio/h5.jpg"
+    },
+
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/h6.jpg",
+      "smallImage": "img/portfolio/h6.jpg"
+    },
+    {
+
+      "title": "Project Title",
+      "largeImage": "img/portfolio/h7.jpg",
+      "smallImage": "img/portfolio/h7.jpg"
+    },
+
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/h8.jpg",
+      "smallImage": "img/portfolio/h8.jpg"
+    },
+    {
+
+      "title": "Project Title",
+      "largeImage": "img/portfolio/h9.jpg",
+      "smallImage": "img/portfolio/h9.jpg"
+    }
+
+  ],
+  "Services": [
+    {
+      "img": "./img/col.jpg",
+      "imgAlt": "Collision Repair",
+      "imgClass": "circular-img",
+      "name": "Collision Repair",
+      "text": "• Autobody collision repair\n• Frame repair and pull"
+    },
+    {
+      "img": "img/wrench.jpg",
+      "imgAlt": "Cosmetic Repairs",
+      "imgClass": "circular-img",
+
+      "name": "Cosmetic Repairs",
+      "text": "• Minor dents and scratches\n• Wet sand and polishing"
+    },
+    {
+      "img": "img/heart.jpg",
+      "imgAlt": "Restoration Services",
+      "imgClass": "circular-img",
+
+      "name": "Restoration Services",
+      "text": "• Part or full restoration\n• Paint sealing"
+    },
+    {
+      "img": "img/Car.jpg",
+      "imgAlt": "Specialty Vehicles",
+      "imgClass": "circular-img",
+
+
+      "name": "Specialty Vehicles",
+      "text": "• British car specialists\n• Fibreglass repairs"
+    },
+    {
+      "img": "img/boat.jpg",
+      "imgAlt": "Boat and Watercraft",
+      "imgClass": "circular-img",
+
+      "name": "Boat and Watercraft",
+
+      "text": "• Boat and watercraft repairs\n• RV and trailer repair"
+    },
+    {
+      "img": "img/Additional.jpg",
+      "imgAlt": "Additional Services",
+      "imgClass": "circular-img",
+
+      "name": "Additional Services",
+      "text": "• Comprehensive detailing\n• All insurance work"
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/team/d.png",
+      "text": "\"They repaired my vehicle after a deer hit. The process was very easy and fast. I would recommend them to anyone and will definitely use them for any future needs. Thanks for all your help!\"",
+      "name": "Dan Davis"
+    },
+    {
+      "img": "img/team/m.png",
+      "text": "\"Incredible place to get your vehicle done! Mark goes the extra mile to make sure he can help you out in any way he can and will make sure the job gets done properly. Easily the best bodyshop in Windsor-Essex!\"",
+      "name": "Mackenzie Robson"
+    },
+    {
+      "img": "img/team/r.png",
+      "text": "\"If your looking for one of the best body shops out there, these are the guys. I took a one year old high value vehicle to Robson’s after being rear ended and it came back better than new.  Very professional, friendly  and they does flawless work.  Worth every dollar spent.\"",
+      "name": "Rick B"
+    },
+    {
+      "img": "img/team/b.png",
+      "text": "\"Robsons Bodywork’s does fantastic work down to every detail, never left unimpressed, I was very pleased with my car and it’s phenomenal paint job. Would rate it 10 stars if I could\"",
+      "name": "Bella Cappelli"
+    },
+    {
+
+      "img": "img/team/p.png",
+      "text": "\"Job well done car looks great, service was excellent, then our door handle broke and he saved me a ton of dough by replacing one part instead of the handle and lock. Recommended for a job well done\"",
+      "name": "Pete Kneale"
+    },
+    {
+      "img": "img/team/S.png",
+      "text": "\"Honest work, photo evidence of the process available. Flexible with pickup/dropoff scheduling. Fast, high quality work, Robson's isn't the place to cut corners. Highly recommended.\"",
+      "name": "Steve S"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.png",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/01.png",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/01.png",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/01.png",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "2701 Essex County Rd 20, Amherstburg, ON N9V 2Y8 ",
+    "phone": " (519) 736-6240",
+    "email": "robsonsbodyworks@yahoo.ca",
+    "facebook": "https://www.facebook.com/robsonsbodyworksamherstburg/",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
