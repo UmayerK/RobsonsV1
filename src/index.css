@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* Add this to your global CSS file */
+.form-control {
+  color: black !important;
+}
+
+.form-control::placeholder {
+  color: #6c757d !important;  /* Bootstrap's default placeholder color */
+}
