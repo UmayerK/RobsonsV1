@@ -82,7 +82,7 @@
       "text": "• Autobody collision repair\n• Frame repair and pull"
     },
     {
-      "img": "img/wrench.jpg",
+      "img": "./img/wrench.jpg",
       "imgAlt": "Cosmetic Repairs",
       "imgClass": "circular-img",
 
@@ -90,7 +90,7 @@
       "text": "• Minor dents and scratches\n• Wet sand and polishing"
     },
     {
-      "img": "img/heart.jpg",
+      "img": "./img/heart.jpg",
       "imgAlt": "Restoration Services",
       "imgClass": "circular-img",
 
@@ -98,7 +98,7 @@
       "text": "• Part or full restoration\n• Paint sealing"
     },
     {
-      "img": "img/Car.jpg",
+      "img": "./img/car.jpg",
       "imgAlt": "Specialty Vehicles",
       "imgClass": "circular-img",
 
@@ -107,16 +107,14 @@
       "text": "• British car specialists\n• Fibreglass repairs"
     },
     {
-      "img": "img/boat.jpg",
+      "img": "./img/boat.jpg",
       "imgAlt": "Boat and Watercraft",
       "imgClass": "circular-img",
-
       "name": "Boat and Watercraft",
-
       "text": "• Boat and watercraft repairs\n• RV and trailer repair"
     },
     {
-      "img": "img/Additional.jpg",
+      "img": "./img/Additional.jpg",
       "imgAlt": "Additional Services",
       "imgClass": "circular-img",
 
@@ -126,33 +124,33 @@
   ],
   "Testimonials": [
     {
-      "img": "img/team/d.png",
+      "img": "./img/team/d.png",
       "text": "\"They repaired my vehicle after a deer hit. The process was very easy and fast. I would recommend them to anyone and will definitely use them for any future needs. Thanks for all your help!\"",
       "name": "Dan D"
     },
     {
-      "img": "img/team/m.png",
+      "img": "./img/team/m.png",
       "text": "\"Incredible place to get your vehicle done! Mark goes the extra mile to make sure he can help you out in any way he can and will make sure the job gets done properly. Easily the best bodyshop in Windsor-Essex!\"",
       "name": "Mackenzie R"
     },
     {
-      "img": "img/team/r.png",
+      "img": "./img/team/r.png",
       "text": "\"If your looking for one of the best body shops out there, these are the guys. I took a one year old high value vehicle to Robson’s after being rear ended and it came back better than new.  Very professional, friendly  and they does flawless work.  Worth every dollar spent.\"",
       "name": "Rick B"
     },
     {
-      "img": "img/team/b.png",
+      "img": "./img/team/b.png",
       "text": "\"Robsons Bodywork’s does fantastic work down to every detail, never left unimpressed, I was very pleased with my car and it’s phenomenal paint job. Would rate it 10 stars if I could\"",
       "name": "Bella C"
     },
     {
 
-      "img": "img/team/p.png",
+      "img": "./img/team/p.png",
       "text": "\"Job well done car looks great, service was excellent, then our door handle broke and he saved me a ton of dough by replacing one part instead of the handle and lock. Recommended for a job well done\"",
       "name": "Pete K"
     },
     {
-      "img": "img/team/S.png",
+      "img": "./img/team/S.png",
       "text": "\"Honest work, photo evidence of the process available. Flexible with pickup/dropoff scheduling. Fast, high quality work, Robson's isn't the place to cut corners. Highly recommended.\"",
       "name": "Steve S"
     }
