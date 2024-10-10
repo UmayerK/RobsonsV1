@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/RobsonsV1/static/css/main.28e40121.css",
-    "main.js": "/RobsonsV1/static/js/main.95ecca8e.js",
+    "main.js": "/RobsonsV1/static/js/main.b4c6865f.js",
     "index.html": "/RobsonsV1/index.html",
     "main.28e40121.css.map": "/RobsonsV1/static/css/main.28e40121.css.map",
-    "main.95ecca8e.js.map": "/RobsonsV1/static/js/main.95ecca8e.js.map"
+    "main.b4c6865f.js.map": "/RobsonsV1/static/js/main.b4c6865f.js.map"
   },
   "entrypoints": [
     "static/css/main.28e40121.css",
-    "static/js/main.95ecca8e.js"
+    "static/js/main.b4c6865f.js"
   ]
 }
