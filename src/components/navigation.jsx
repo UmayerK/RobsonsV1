@@ -17,7 +17,7 @@ export const Navigation = (props) => {
           </button>
           <a className="navbar-brand page-scroll" href="#page-top">
           <img
-  src="/img/image.png"
+  src="./img/image.png"
   alt="Robsons BodyWorks"
   style={{ height: "80px", width: "auto", marginTop: "-20%" }} // Adjust height and margin as needed
 />
